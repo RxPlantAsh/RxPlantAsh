@@ -6,8 +6,7 @@
 - 📫 How to reach me ...
 --->
 
-- Huh...
-- 被发现了呢...
+- Wow.
 
 <!---
 RxPlantAsh/RxPlantAsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
